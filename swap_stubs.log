@@ -1,0 +1,7 @@
+09-11 08:05:28 com_github_MitjaNemec_SwapStubs.action_swap_stubs 109:Plugin executed on: 'win32'
+09-11 08:05:28 com_github_MitjaNemec_SwapStubs.action_swap_stubs 110:Plugin executed with python version: '3.11.5 (main, Jan 23 2026, 07:39:48) [MSC v.1944 64 bit (AMD64)]'
+09-11 08:05:28 com_github_MitjaNemec_SwapStubs.action_swap_stubs 111:KiCad build version: 10.0.6
+09-11 08:05:28 com_github_MitjaNemec_SwapStubs.action_swap_stubs 112:Plugin version: 1.0.8
+
+09-11 08:05:28 com_github_MitjaNemec_SwapStubs.action_swap_stubs 113:Frame repr: <wx._core.Frame object at 0x0000021E8BBD6EF0>
+09-11 08:05:28 com_github_MitjaNemec_SwapStubs.action_swap_stubs 116:Sch frame repr: <wx._core.Frame object at 0x0000021E8C29B6D0>
