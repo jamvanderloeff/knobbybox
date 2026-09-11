@@ -11671,7 +11671,7 @@
 				)
 			)
 		)
-		(property "Footprint" "USB-C-Power-tester:SW_Push_1P1T_NO_CK_KMR2"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxG"
 			(at 161.29 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -15118,7 +15118,7 @@
 				)
 			)
 		)
-		(property "Footprint" "USB-C-Power-tester:SW_Push_1P1T_NO_CK_KMR2"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxG"
 			(at 161.29 73.66 0)
 			(hide yes)
 			(show_name no)
